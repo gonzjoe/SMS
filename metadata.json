@@ -1,0 +1,6 @@
+{
+  "name": "SMS México - Soluciones de Infraestructura de TI y Arrendamiento",
+  "description": "Adquisición de equipos de cómputo, impresión, videovigilancia y soluciones en TI para empresas bajo esquemas de arrendamiento, comodato y financiamiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
